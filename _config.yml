@@ -1,0 +1,14 @@
+layout_spectrum: 0.9453247669152915
+typography_spectrum: 0.10561237065121531
+color:
+  brandStrength: 0.33768649911507964
+  lightness: 0.3454126010183245
+  saturation: 0.6179311634041369
+  rhythmicContrast: 0.19121586252003908
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: Internal work site
